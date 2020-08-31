@@ -1,0 +1,21 @@
+{
+  "name": "discord-tinyurl",
+  "version": "1.0.0",
+  "description": "Discord bot to create tiny URLs for links, embeds, and attachments.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tinyurl",
+    "links",
+    "attachment"
+  ],
+  "author": "Will Lamason",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
