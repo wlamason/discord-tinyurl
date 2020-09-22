@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/wlamason/discord-tinyurl/blob/master/LICENSE)
 
-> Discord bot to create tiny URLs for links, embeds, and attachments.
+> 🤖 Discord bot to create tiny URLs for links, embeds, and attachments.
 
 ### 🏠 [Homepage](https://github.com/wlamason/discord-tinyurl)
 
