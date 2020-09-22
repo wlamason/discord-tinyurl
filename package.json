@@ -14,7 +14,7 @@
     "attachment"
   ],
   "author": "Will Lamason",
-  "license": "MIT",
+  "license": "Apache License 2.0",
   "dependencies": {
     "discord.js": "^12.2.0"
   }
