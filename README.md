@@ -32,8 +32,6 @@ npm install
 
 ### Run Locally
 
-Local usage:
-
 ```sh
 TOKEN=xxxxx node bot.js
 ```
