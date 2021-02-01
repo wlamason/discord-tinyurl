@@ -1,27 +1,54 @@
-# Welcome to discord-tinyurl 👋
+# discord-tinyurl
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/wlamason/discord-tinyurl/blob/master/LICENSE)
 
 > 🤖 Discord bot to create tiny URLs for links, embeds, and attachments.
 
-### 🏠 [Homepage](https://github.com/wlamason/discord-tinyurl)
+
+## Project Objective
+Enable discord users to make tiny urls for links and discord cdn objects (files, attachments, images) directly in text channels.
 
 ## Invite to your Discord Server
 
+Feel free to invite or self-host your own.
+
+[![Invite link](img/invite_card.png)](https://discord.com/api/oauth2/authorize?client_id=579534804471513100&permissions=130112&scope=bot)
 [Invite link.](https://discord.com/api/oauth2/authorize?client_id=705569193734438924&permissions=93248&scope=bot)
 
-## Install
+## Commands
+
+![Commands](img/commands.png)
+
+## Self-Hosting
+
+[Documentation on how to create a discord bot account and receive a login token.](https://discordpy.readthedocs.io/en/latest/discord.html)
+
+
+### Install
 
 ```sh
 npm install
 ```
 
+<<<<<<< Updated upstream
 ## Usage
+=======
+### Run Locally
+>>>>>>> Stashed changes
 
 ```sh
 TOKEN=xxxxx node bot.js
 ```
 
+<<<<<<< Updated upstream
+=======
+### 🐳 Run with Docker
+
+```sh
+docker run -d -e "TOKEN=<YOUR_TOKEN_HERE>" --name discord-tinyurl --restart=always wlamason/discord-tinyurl
+```
+
+>>>>>>> Stashed changes
 ## Author
 
 👤 **Will Lamason**
