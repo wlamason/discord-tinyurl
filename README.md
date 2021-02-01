@@ -36,19 +36,28 @@ npm install
 ### Run Locally
 >>>>>>> Stashed changes
 
+Local usage:
+
 ```sh
 TOKEN=xxxxx node bot.js
 ```
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 ### 🐳 Run with Docker
+=======
+🐳 Docker usage:
+>>>>>>> a958609471e69f8523f3b58d59afd7ef22273f7b
 
 ```sh
 docker run -d -e "TOKEN=<YOUR_TOKEN_HERE>" --name discord-tinyurl --restart=always wlamason/discord-tinyurl
 ```
 
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> a958609471e69f8523f3b58d59afd7ef22273f7b
 ## Author
 
 👤 **Will Lamason**
